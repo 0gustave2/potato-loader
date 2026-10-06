@@ -1,2 +1,1 @@
-# potato-loader
-Public loader for Potato assist script
+loadstring(game:HttpGet("https://pastebin.com/raw/r896Jquj"))()
